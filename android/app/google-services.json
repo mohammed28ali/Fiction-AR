@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898463220916",
+    "firebase_url": "https://fiction-e9fab-default-rtdb.firebaseio.com",
+    "project_id": "fiction-e9fab",
+    "storage_bucket": "fiction-e9fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898463220916:android:5ee4e00ed0ab7224d583e1",
+        "android_client_info": {
+          "package_name": "com.example.fiction_ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898463220916-sshner7ggsdcgj919j3em4ohaundtnvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIqjyUqEkcbVrNgqcsxDY3WsVK7Ouv5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898463220916-sshner7ggsdcgj919j3em4ohaundtnvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
