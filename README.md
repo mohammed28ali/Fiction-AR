@@ -1,4 +1,4 @@
-#Fiction Ar (Graduation Project)
+Fiction Ar (Graduation Project)
 Fiction Ar with augmented reality
 
 Fiction AR app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
@@ -7,9 +7,6 @@ Fiction AR app is open-source  app for Android & ios. It is built with Dart on t
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
-
-<p><img src="snapshot/forty.png" /></p>
-<p align="center"><b>Fiction Ar</b></p>
 
 
 ## About
@@ -36,4 +33,5 @@ Fiction AR is about augmented reality technology to detect voice,text and object
 - [x] [lottie]
 
 --------------------------
+
 
