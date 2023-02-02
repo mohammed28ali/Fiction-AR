@@ -33,5 +33,6 @@ Fiction AR is about augmented reality technology to detect voice,text and object
 - [x] [lottie]
 
 --------------------------
-👇
+➡![ArrowOmarJanaanGIF](https://user-images.githubusercontent.com/43098702/216431059-c443af30-d18e-4603-a2df-c1ebfd987add.gif)
+
 <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6936427519986278400?compact=1" target="_blank">CLICK HERE TO SHOW VIDEO</a>
