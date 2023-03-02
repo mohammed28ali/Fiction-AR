@@ -31,4 +31,4 @@ Fiction AR is about augmented reality technology to detect voice,text and object
 - [x] [tflite]
 - [x] [lottie]
 --------------------------
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/_kiYLeSwVj0 "Everything Is AWESOME")
+[![Everything Is AWESOME](https://youtu.be/_kiYLeSwVj0)](https://youtu.be/_kiYLeSwVj0 "Everything Is AWESOME")
