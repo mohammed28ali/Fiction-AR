@@ -16,7 +16,7 @@ Fiction AR is about augmented reality technology to detect voice,text and object
 
 ## Benefit
 
-- [🖥] # Screens 
+- [🖥]  Screens 
 - [🆗] Splash Screen
 - [🆗] Home Screen
 - [🆗] Voice detection Screen
