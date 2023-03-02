@@ -16,12 +16,12 @@ Fiction AR is about augmented reality technology to detect voice,text and object
 
 ## Benefit
 
-- [🖥]  Screens 
-- [🆗] Splash Screen
-- [🆗] Home Screen
-- [🆗] Voice detection Screen
-- [🆗] Text detection Screen
-- [🆗] Object detection Screen
+-   Screens 
+-   Splash Screen
+-   Home Screen
+-   Voice detection Screen
+-   Text detection Screen
+-   Object detection Screen
 --------------------------------
 ## Dependencies
 - [x] [flutter_mobile_vision_2]
