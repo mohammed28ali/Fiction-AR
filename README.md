@@ -31,4 +31,6 @@ Fiction AR is about augmented reality technology to detect voice,text and object
 - [x] [tflite]
 - [x] [lottie]
 --------------------------
+## Application Diagram
+[![Screenshot-2023-04-01-193950.png](https://i.postimg.cc/xCK55pRK/Screenshot-2023-04-01-193950.png)](https://postimg.cc/9RQyFpsM)
 [![CLICK HERE TO SHOW VIDEO](https://i.postimg.cc/NjSXdfwT/113-Fiction-Ar-You-Tube.png)](https://youtu.be/_kiYLeSwVj0 "CLICK HERE TO SHOW VIDEO")
